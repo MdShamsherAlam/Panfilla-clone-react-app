@@ -1,0 +1,173 @@
+
+.con2-section{
+    background-color: white;
+    margin-top: 90px;
+    overflow-x: hidden;
+    
+}
+.con2-row {
+    display: flex;
+    justify-content: space-around;
+    padding: 60px;
+    
+  }
+ 
+
+ 
+  .con-card-red {
+    background-color: red;
+    border: 1px solid black; 
+    padding: 50px 20px; 
+    text-align: center;
+    width: 359px; 
+    height: 503px;
+    border-radius: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    transition:
+      background 0.3s,
+      border 0.3s,
+      border-radius 0.3s,
+      box-shadow 0.3s,
+      transform var(--e-transform-transition-duration, 0.4s);
+    transform: translateY(0);
+ }
+ 
+ .con-card-red:hover {
+    transform: translateY(-20px); /* Adjust the value to move it as per your preference */
+    animation-direction: alternate;
+ }
+ 
+ 
+   .con-card-green {
+    background-color: #00b33b;
+    border: 1px solid black; 
+    padding: 50px 20px; 
+    text-align: center;
+    width: 359px; 
+    height: 503px;
+    border-radius: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    transition:
+      background 0.3s,
+      border 0.3s,
+      border-radius 0.3s,
+      box-shadow 0.3s,
+      transform var(--e-transform-transition-duration, 0.4s);
+    transform: translateY(0);
+ }
+ 
+ .con-card-green:hover {
+    transform: translateY(-20px); /* Adjust the value to move it as per your preference */
+    animation-direction: alternate;
+ }
+ 
+  
+   .con-card-yellow {
+    background-color: #ffbb00;
+    border: 1px solid black; 
+    padding: 50px 20px; 
+    text-align: center;
+    width: 359px; 
+    height: 503px;
+    border-radius: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    transition:
+      background 0.3s,
+      border 0.3s,
+      border-radius 0.3s,
+      box-shadow 0.3s,
+      transform var(--e-transform-transition-duration, 0.4s);
+    transform: translateY(0);
+ }
+ 
+ .con-card-yellow:hover {
+    transform: translateY(-20px); 
+    animation-direction: alternate;
+ }
+ 
+  /* Styles for the circle containing the icon */
+  .con-icon-circle {
+   
+  
+    border:2px solid white;
+    border-radius: 50%;
+    width: 100px; 
+    height: 100px; 
+    margin: 0 auto 20px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  /* Styles for the icon */
+  .con-icon-circle i {
+    font-size: 50px; 
+    color:white;
+  }
+  
+  /* Styles for the heading */
+  .con-content h2 {
+    color:white;
+    font-size: 24px;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0 0 30px;
+  }
+  
+  /* Styles for the paragraph */
+  .con-content p {
+    font-family: sans-serif;
+    color:white;
+    font-size: 17px; 
+     padding:15px;
+    line-height: 26px;
+  }
+  
+   .con2-section-heading h2{
+    width: 500px;
+    margin: auto;
+    font-size: 39px;
+    font-family: sans-serif;
+    color:#333333;
+    padding-left: 69px;
+   }
+   @media screen and (max-width: 768px) {
+   
+    .con2-row {
+      display: block;
+      margin-left:-52px;
+      padding: 60px;
+      margin-top:-30px;
+      
+    }
+    .con-card-green,.con-card-red,.con-card-yellow{
+      margin-top: 23px;
+      width:375px;
+      height:469px;
+    }
+    .con2-section-heading h2{
+      width: 100%;
+      margin: auto;
+      font-size: 26px;
+      font-family: sans-serif;
+      color:#333333;
+      padding-left: 69px;
+     }
+     .con2-section{
+      background-color: white;
+      margin-top: 30px;
+      width: 390px;
+      
+  }
+
+
+
+
+
+
+
+
+
+
+
+   }

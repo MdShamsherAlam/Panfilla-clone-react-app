@@ -1,0 +1,103 @@
+/* Admin.css */
+
+.admin-button{
+  display: flex;
+  justify-content: space-between;
+  width:100%;
+  flex-direction: row-reverse;
+
+}
+.admin-logout button{
+
+  padding: 12px 31px;
+  font-size: 20px;
+    background-color: rgb(240, 77, 77);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+
+}
+.admin-logout button:hover{
+  background-color: red;
+}
+
+.admin-back button{
+  padding: 12px 31px;
+  font-size: 20px;
+    background-color: rgb(240, 77, 77);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+
+
+}
+.admin-back button:hover{
+  background-color: red;
+}
+.admin-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .admin-logout {
+    margin-bottom: 20px;
+  }
+  
+  .admin-row {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .admin-col {
+    flex: 1;
+    min-width: 200px;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .admin-col:hover {
+    transform: translateY(-5px);
+  }
+  
+  .admin-alert h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .admin-btn {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .admin-edit button {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .admin-edit button:hover {
+    background-color: #0056b3;
+  }
+  .admin-heading h2{
+    margin-top: 12px;
+    color:#0056b3;
+    font-family: sans-serif;
+    font-size: 30px;
+  }

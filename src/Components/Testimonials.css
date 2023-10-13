@@ -1,0 +1,106 @@
+.testi-section{
+    height:750px;
+    width: 100%;
+    background-image: url("https://panfila.in/wp-content/uploads/2021/02/textured_paper.png");
+}
+.testi-card{
+    display: flex;
+    justify-content: space-around;
+    width:1140px;
+    height:427px;   
+    margin-left: -49px;
+}
+
+.testi-card-left{
+    background-color: white;
+    height:407px;
+    width:550px;
+    padding: 30px 0 30px 30px;
+    border-radius: 30px;
+    
+}
+.testi-card-right{
+    background-color: white;
+    height:407px;
+    width:550px;
+    padding: 30px 0 30px 30px;
+    border-radius: 30px;
+}
+.testi-card-img{
+    height:100px;
+    width:100px;
+    margin-top: 31px;
+}
+.testi-card-img img{
+    height:100%;
+    width:100%;
+}
+.testi-card-left{
+    display: flex;
+    justify-content: space-around;
+}
+.testi-card-content{
+    width: 420px;
+    height:347px;
+}
+.testi-card-right{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.testi-heading h2{
+    font-size: 39px;
+    color:#333333;
+}
+.testi-p {
+    font-size: 17px;
+    padding-bottom: 20px;
+    margin-top: 30px;
+    font-family: sans-serif;
+    color:#242424;
+   
+    
+
+
+}
+.test-h1{
+    width:1140px;
+    height:140px;
+    padding: 0 360px;
+    align-items: center;
+}
+.tcc-heading{
+    margin:0 0 10px;
+}
+.tcc-heading2{
+    margin:0 0 10px;
+}
+.tcc-p{
+    margin-top: 15px;
+}
+.tcc-p p i{
+    font-size: 16px;
+    color:#242424;
+    font-weight: 200;
+    font-size: unset;
+    
+    line-height: 1.6;
+    font-family: sans-serif;
+}
+.testi-card-content{
+    padding:25px;
+}
+.testi-main{
+    padding:100px;
+}
+.tcc-heading2{
+    color:#AAAAAA;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+@media screen and (max-width: 768px) {
+.testi-section{
+    display: none;
+}
+}

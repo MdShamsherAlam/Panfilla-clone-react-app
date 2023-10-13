@@ -1,0 +1,203 @@
+{
+  "alert": [
+    {
+      "id": 1,
+      "alertText1": "CONTACT US",
+      "alertText2": "REQUEST QUOTE",
+      "alertText3": "+91-9304989973",
+      "alertText4": "MON-SUN:10:00-20:00"
+    }
+  ],
+  "navbar": [
+    {
+      "id": 1,
+      "navlogo": "  https://panfila.in/wp-content/uploads/2021/06/PGS_NINJA_RC1000_PNG.png",
+      "navheadertext1": "HOME",
+      "navheadertext2": "WHO WE ARE",
+      "navheadertext3": "CONTENT AND CREATIVE",
+      "navheadertext4": "SEO AND COMMERCE",
+      "nht2Dropdown1": "PORTFOLIO",
+      "nht2Dropdown2": "REQUEST A QUOTE",
+      "nht3Dropdown1": "WEBSITE DESIGN",
+      "nht3Dropdown2": "WEBSITE REDESIGN",
+      "nht3Dropdown3": "INFO GRAPHICS DESIGN",
+      "nht3Dropdown4": "SOCIAL MEDIA DESIGN",
+      "nht4Dropdown1": "ECOMMERCE DEVELOPMENT",
+      "nht4Dropdown2": "ECOMMERCE OPTIMIZATION",
+      "nht4Dropdown3": "SEO SERVICE",
+      "nht4Dropdown4": "LOCAL SEO SERVICE",
+      "navbutton": "Login"
+    }
+  ],
+  "banner": [
+    {
+      "id": 1,
+      "bannerHeaderText": "PANFILA® GLOBAL SOLUTIONS",
+      "bannerHeaderText2": "WE DESIGN",
+      "bannerHeaderText3": "YOUR BUSINESS",
+      "bannerHeaderText4": "Building Relationships and Driving Businesses",
+      "bannerHeaderText5": "REQUEST A QUOTE"
+    }
+  ],
+  "content1": [
+    {
+      "id": 1,
+      "contentpng": " https://panfila.in/wp-content/uploads/2021/02/undraw_pair_programming_njlp.png",
+      "contentHeading": "We build websites that build your business",
+      "contentpara": "Panfila® Global Solutions, as a value driven organisation, we carry a purpose to empower businesses through process improvement and simplification by implementation of technology.",
+      "contentpara2": "With a vision to excel, our each plan and action is inspired by our core values that enable us to focus towards growth on the righteous path",
+      "contentbutton": "Choose From Our Designing Packages"
+    }
+  ],
+  "ourservices": [
+    {
+      "id": 1,
+      "osheading": "OUR SERVICES",
+      "oswordpressheading": "WORDPRESS",
+      "oswordpresspara": "Development",
+      "oswordpressheading1": "DIGITAL",
+      "oswordpresspara1": "Marketing",
+      "oswordpressheading2": "LOGO",
+      "oswordpresspara2": "Designing",
+      "oswordpressheading3": "INFROGRAPHICS",
+      "oswordpresspara3": "Designing",
+      "oswordpressheading4": "HOSTING",
+      "oswordpresspara4": "Services",
+      "oswordpressheading5": "DOMAIN",
+      "oswordpresspara5": "Registration",
+      "oswordpressheading6": "GRAPHIC",
+      "oswordpresspara6": "Designing",
+      "oswordpressheading7": "E-COMMERCE",
+      "oswordpresspara7": "Development "
+    }
+  ],
+  "overlay": [
+    {
+      "id": 1,
+      "overlayheading1": "Panfila® is among the",
+      "overlayheading2": "Top Web Development Companies in Chennai",
+      "overlayheading3": "and",
+      "overlayheading4": "Ranks on Google",
+      "overlayheading5": "for:",
+      "globe1": " Development Company in Chennai",
+      "globe2": "Website Development Company in Chennai",
+      "globe3": "Design Company in Chennai",
+      "globe4": "Development Chennai",
+      "globe5": "Design Chennai",
+      "globe6": "10 Web Development Companies in Chennai",
+      "globe7": " Web Design Company in Chennai",
+      "globe8": " Web Development Company in Chennai",
+      "globe9": " Design Company in Chennai",
+      "globe10": "Development Company in Chennai",
+      "globe11": " Website Development Company in Chennai",
+      "globe12": "Design Company in Chennai",
+      "globe13": "Development Chennai",
+      "globe14": " Design Chennai",
+      "globe15": "10 Web Development Companies in Chennai",
+      "globe16": "Web Design Company in Chennai",
+      "globe17": " Web Development Company in Chennai",
+      "globe18": " Design Company in Chennai"
+    }
+  ],
+  "recognization": [
+    {
+      "id": 1,
+      "recheading": "RECOGNITIONS",
+      "image1": " https://panfila.in/wp-content/uploads/2021/05/Badge-Top-Web-Development-Companies-2021.png",
+      "image2": "https://panfila.in/wp-content/uploads/2021/05/GoodFirms.co_.png",
+      "image3": "https://panfila.in/wp-content/uploads/2021/05/Badge-Top-Ecommerce-Development-Companies-2021.png",
+      "image4": "https://panfila.in/wp-content/uploads/2021/05/appfutura-badge-1.png"
+    }
+  ],
+  "latestwork": [
+    {
+      "id": 1,
+      "heading": "OUR LATEST WORKS",
+      "image1": "https://panfila.in/wp-content/uploads/2021/02/pgs_portfolio_dalitsolidarity.org_-scaled.jpg",
+      "image2": "https://panfila.in/wp-content/uploads/2021/10/pgs_portfolio_stthomasmount.org_-scaled.jpg",
+      "image3": "https://panfila.in/wp-content/uploads/2023/05/pgs_portfolio_jdax.in_-scaled.jpg",
+      "image1text": "DALIT SOLARITY",
+      "image1text2": "Non-Profit/Charity Organization",
+      "image2text": "SSTHOMASMOUNT.ORG",
+      "image2text2": "Religious/Church",
+      "image3text": "JDAX.IN",
+      "image3text2": "Education Institute",
+      "button": "VIEW MORE"
+    }
+  ],
+  "Testimonials": [
+    {
+      "heading": "TESTIMONIALS",
+      "testipara": "What our clients have to say about us?",
+      "leftimage": "https://panfila.in/wp-content/uploads/2021/06/THWC_LOGO_SQ_ICONPNG.png",
+      "leftheading": "Thalir Centre",
+      "leftheading2": "Asst.Director",
+      "leftpara": "Panfila Global Solutions renders excellent services for all your technical needs. The expertise of Mahimai is incomparable that could cater to solve all our technical expectations. Our institute is very happy and fortunate to get such a gem to facilitate the fast growth of our Virtual Institute. Foreseeing a much longer learning travel with him…!",
+      "rightimage": "https://panfila.in/wp-content/uploads/2021/02/MT-Logo-Hi-Res-2-scaled.jpg",
+      "rightheading": "Ravichandra K",
+      "rightheading2": "Director",
+      "rightpara": "We are extremely happy with the website that Panfila® Global Solutions have created for us. It is visually appealing, clean, easy to navigate and responsive – everything we asked for. The CMS is intuitive and user friendly. Mahimai was a pleasure to work with and has offered advice and support post launch.",
+      "id": 1
+    }
+  ],
+  "userform": [
+    {
+      "id": 1,
+      "formheading": "REQUEST A QUOTE",
+      "formname": "Name:",
+      "formemail": "Email:",
+      "formphone": "Phone Number:",
+      "selectaservicedropdown": "Select a Service:",
+      "selectaservicedropdown1": "Wordpress Website Design",
+      "selectaservicedropdown2": "Wordpress Website Re-Design",
+      "selectaservicedropdown3": "Infrographics Design",
+      "selectaservicedropdown4": "Social Media Design",
+      "selectaservicedropdown5": "Ecommerce Development",
+      "selectaservicedropdown6": "Ecommerce Optimization",
+      "selectaservicedropdown7": "SEO Service",
+      "selectaservicedropdown8": "Local SEO Service",
+      "formmessage": "Message:",
+      "formbutton": "SUBMIT",
+      "formtopheading": "WE ARE CREATIVE",
+      "formtoppara": "We appreciate you taking the time to fill out this request form and look forward to speaking with you.",
+      "formbackgroundimage": "https://panfila.in/wp-content/uploads/2021/02/req-a-quote.png"
+    }
+  ],
+  "whychooseus": [
+    {
+      "id": 1,
+      "heading": "WHY CHOOSE US?",
+      "cardHeading": "Responsive",
+      "cardpara": "Your website layout will change based on the device a person is using. Our responsive web designing team will create a layout for all screen sizes to ensure that your website visitors are able to view the information properly, which could help increase your conversions.",
+      "cardHeading2": "SEO Friendly",
+      "cardpara2": "We perform intensive on-page and off-page optimization to ensure that every aspect of your SEO in on point. We're out there spreading the news about how great your website is. The race to the top never ends. We continue to monitor and test what's working and what's not..",
+      "cardHeading3": "Best in Class",
+      "cardpara3": "We primarily work with WordPress and we are well-versed in our craft. Every project begins with understanding a brand's needs, goals and users which serve as a blueprint for web design and development. On that foundation, we design modern and compelling websites."
+    }
+  ],
+  "footer":[
+  {
+    "id":1,
+    "aboutus":"ABOUT US",
+    "aboutuspara":"Panfila® Global Solutions is a creative web design company that offers cost effective website solution to the startups. As a tech company, we continue to strive for new, simpler ways to help companies grow by building relationships and driving businesses.",
+    "reachus":"REACH US",
+    "Address":"Pammal,Chennai,600075.",
+    "Mobile":"+91-9840074600",
+    "email":"support@panfilla.com",
+    "footerMainImg":"https://panfila.in/wp-content/uploads/2021/06/pgs_iso-9001-2015-certification-badge-1.png",
+
+
+    "googleImg":"https://panfila.in/wp-content/uploads/2021/06/pgs_google-reviews-gold-e1623697032814.png",
+    "review":"Clutch",
+    "godfirm":"https://assets.goodfirms.co/badges/white-button/profile-reviews.svg",
+    "appfutura":"https://www.appfutura.com/img/badges/badge-regular.png",
+    "topdeloper":"https://www.topdevelopers.co/assets/badges/app-2021/Web-Development/rectangle-Top-Web-Development-Companies-2021.png",
+    "panfilla":"https://panfila.in/wp-content/uploads/2021/06/PGS_WEBSITE_FT200_PNG.png",
+    "copyright":"© Copyright 2022. All Rights Reserved.",
+    "panfillades":" Panfila® Global Solutions"
+
+
+  }
+
+  ]
+}

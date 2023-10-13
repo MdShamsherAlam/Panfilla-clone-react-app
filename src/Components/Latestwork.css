@@ -1,0 +1,126 @@
+/* Original CSS code */
+
+.lw-col {
+    width: 20rem;
+    height: 28rem;
+    border: 2px solid #333333;
+    color: black;
+    margin: 0 10px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
+    border-color: #ffbb00;
+}
+
+.lw-row {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.lw-heading {
+    justify-content: center;
+    text-align: center;
+}
+
+.lw-col img {
+    width: 17rem;
+    height: 23rem;
+    border-radius: 20px;
+    transition: transform 0.5s;
+}
+
+.lw-col img:hover {
+    transform: scale(0.8);
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.lw-heading {
+    margin-top: 80px;
+}
+
+.lw-heading h2 {
+    font-size: 39px;
+    color: #333333;
+    font-family: sans-serif;
+}
+
+.lw-row {
+    margin-top: 40px;
+}
+
+.lw-btn {
+    text-align: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.lw-btn button {
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #00B33B;
+    padding: 15px 30px;
+    border-radius: 30px;
+    border: none;
+    color: white;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+
+.lw-btn button:hover {
+    transition: 0.5s;
+    background-color: #e10000;
+}
+
+.lw-content a {
+    font-size: 18px;
+    font-family: sans-serif;
+    color: black;
+}
+
+/* Media Query for Responsiveness */
+
+@media screen and (max-width: 768px) {
+    .lw-heading {
+        margin-top: 40px;
+    }
+
+    .lw-row {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .lw-heading h2 {
+        font-size: 25px;
+    }
+    .lw-col {
+        width: 24rem;
+        height: 29rem;
+        margin:0;
+        margin-top: 10px;
+    }
+
+   
+
+   
+        .lw-col img {
+            width: 21rem;
+            height: 24rem;
+            padding: 20px 10px;
+        }
+    }
+
+    .lw-btn {
+        margin-top: 12px;
+    }
+    .lw-col{
+        align-self: center;
+    }
+
